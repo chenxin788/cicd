@@ -1,1 +1,1 @@
-FROM gitlab/gitalab-ce:${tag:-latest}
+FROM gitlab/gitlab-ce
